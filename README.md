@@ -2,4 +2,4 @@
 
 URL: https://hebergustavo.github.io/cartoon-network-website/
 
-![image](https://github.com/user-attachments/assets/467b0fbf-7ce2-41a9-a091-81df71e636f7)
+![image](https://github.com/user-attachments/assets/b1e395ba-d8a5-4651-8dac-dc9c033fbc59)
